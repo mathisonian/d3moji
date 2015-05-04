@@ -36,7 +36,7 @@ The plugin is automatically applied when d3 is found on the window object.
 
 svg
     .append('emoji')
-    .attr('symbol', 'smile') // codes taked from http://www.emoji-cheat-sheet.com/ the enclosing :colons: aren't necessary
+    .attr('symbol', 'smile') // codes taken from http://www.emoji-cheat-sheet.com/ the enclosing :colons: aren't necessary
     // do all the standard d3 stuff
     .attr('width', 30)
     .attr('height', 30)
