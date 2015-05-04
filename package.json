@@ -1,0 +1,31 @@
+{
+  "name": "d3moji",
+  "version": "0.1.0",
+  "description": "First class emoji support for d3",
+  "main": "d3moji.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathisonian/d3moji.git"
+  },
+  "keywords": [
+    "emoji",
+    "d3",
+    "data",
+    "viz",
+    "dataviz",
+    "datavis",
+    "data",
+    "visualization",
+    "svg",
+    "emoji"
+  ],
+  "author": "Matthew Conlen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mathisonian/d3moji/issues"
+  },
+  "homepage": "https://github.com/mathisonian/d3moji"
+}
