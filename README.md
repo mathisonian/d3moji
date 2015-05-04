@@ -55,3 +55,6 @@ svg
 d3.select('emoji'); // select the first one found
 d3.selectAll('emoji'); // select all emoji
 ```
+
+## LICENSE 
+MIT
