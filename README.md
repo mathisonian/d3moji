@@ -1,7 +1,7 @@
 # d3moji
 :chart_with_upwards_trend: First class emoji support for D3
 
-
+![emojigif](https://files.slack.com/files-pri/T02A8U9SB-F04M51HQ3/emoji.gif)
 
 ## installation
 
@@ -38,7 +38,7 @@ svg
     .append('emoji')
     .attr('symbol', 'smile') // codes taked from http://www.emoji-cheat-sheet.com/ the enclosing :colons: aren't necessary
     // do all the standard d3 stuff
-    .attr('width', 30) // standard d3 stuf
+    .attr('width', 30)
     .attr('height', 30)
     .attr('x', function(d) {
         return d[0];
