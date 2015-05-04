@@ -5,7 +5,7 @@
 
 ## installation
 
-### browserify
+### CommonJS
 
 ```
 npm install d3moji
