@@ -1,6 +1,7 @@
 # d3moji
 :chart_with_upwards_trend: First class emoji support for D3
 
+![emojigif](https://files.slack.com/files-pri/T02A8U9SB-F04M51HQ3/emoji.gif)
 
 ## installation
 
