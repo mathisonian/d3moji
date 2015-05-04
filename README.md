@@ -56,5 +56,14 @@ d3.select('emoji'); // select the first one found
 d3.selectAll('emoji'); // select all emoji
 ```
 
+
+## attribution
+
+This project uses the open source [twemoji](https://github.com/twitter/twemoji) emoji svgs from twitter.
+
+## faq
+
+**why do you use the twitter emojis?** I couldn't find open SVG sets for the others. PR's welcome if you know more about this.
+
 ## LICENSE 
 MIT
