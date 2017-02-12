@@ -1,4 +1,7 @@
-# d3moji
+
+![invert](https://cloud.githubusercontent.com/assets/1074773/22858734/c86a504c-f07a-11e6-97a1-4ec86c68f0d6.png)
+
+
 :chart_with_upwards_trend: First class emoji support for D3
 
 ![emojigif](./images/emoji.gif)
